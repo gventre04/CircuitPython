@@ -17,4 +17,10 @@ servo.py
 
 This code uses two wires to control the direction of a servo, touching one spins it clockwise, and the other spins it counterclockwise. 
 
+DistanceSensor.py
 
+Distance sensor that changes the color of the neopixel based on how far an object is from the hc-sr04
+
+rgb.py
+
+Classes, objects, and modules code, triggering rgb anode leds.
