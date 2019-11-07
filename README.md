@@ -1,9 +1,11 @@
 # Circuit Python
-My CircuitPython assignments
+My CircuitPython assignments:
 
 ## LED Fade
 
 This code makes an LED fade in and out
+
+!(LED.wiring.diagram.PNG)
 
 ## Servo Capacitative Touch
 
