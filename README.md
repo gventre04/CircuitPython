@@ -2,16 +2,16 @@
 My CircuitPython assignments:
 
 ## Table of Contents
-* [Table of Contents](##Table-of-Contents)
+* [Table of Contents](#Table-of-Contents)
 * [LED Fade](##LED-Fade)
 * [Servo Capacitative Touch](##Servo-Capacitative-Touch)
 * [CircuitPython LCD](##CircuitPython-LCD)
 * [CircuitPython LCD](##CircuitPython-LCD)
 * [Photo Interrupter](##Photo-Interrupter)
 * [Distance Sensor](##Distance-Sensor)
-* [RGB LED](##RGB-LED)
-* [Hello vs Code](##Hello-vs-Code)
-* [Fancy LED](##Fancy-LED)
+* [RGB LED](#RGB-LED)
+* [Hello vs Code](#Hello-vs-Code)
+* [Fancy LED](#Fancy-LED)
 
 ## LED Fade
 
