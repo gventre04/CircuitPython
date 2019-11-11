@@ -23,7 +23,7 @@ This code makes an LED fade in and out
 
 ### Wiring Diagram 
 
-<img src= "media/LED.wiring.diagram.PNG" width="300"> 
+<img src= "media/LED.wiring.diagram.png" width="300"> 
 
 ## Servo Capacitative Touch
 
@@ -35,6 +35,8 @@ This code uses two wires to control the direction of a servo, touching one spins
 
 ### Wiring Diagram  
 
+<img src= "media/servo_with_touch_bb.png" width="300"> 
+
 ## CircuitPython LCD 
 
 ### Objective
@@ -44,6 +46,8 @@ This code uses a button and an lcd screen, when pushing the button, a counter on
 ### Lesson(s) Learned
 
 ### Wiring Diagram 
+
+<img src= "media/LCD_Screen.png" width="300"> 
 
 ## Photo Interrupter
 
@@ -55,6 +59,8 @@ This code counts the amount of time the photointerrupter has been interrupted, p
 
 ### Wiring Diagram  
 
+<img src= "media/PhotoInterrupter.png" width="300"> 
+
 ## Distance Sensor
 
 ### Objective
@@ -64,6 +70,8 @@ Distance sensor that changes the color of the neopixel based on how far an objec
 ### Lesson(s) Learned
 
 ### Image 
+
+<img src= "media/color_spectrum.png" width="300"> 
 
 ## RGB LED
 
@@ -75,13 +83,13 @@ Classes, objects, and modules code, triggering rgb anode leds.
 
 ### Wiring Diagram  
 
+<img src= "media/RGB_wiring_diagram.png" width="300"> 
+
 ## Hello vs Code
 
 ### Objective
 
 ### Lesson(s) Learned
-
-### Image 
 
 ## Fancy LED
 
@@ -90,3 +98,5 @@ Classes, objects, and modules code, triggering rgb anode leds.
 ### Lesson(s) Learned
 
 ### Wiring Diagram 
+
+<img src= "media/FancyLED.png" width="300"> 
