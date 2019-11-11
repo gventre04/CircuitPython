@@ -23,7 +23,7 @@ This code makes an LED fade in and out
 
 ### Wiring Diagram 
 
-<img src= "media/LED.wiring.diagram.PNG" width="300"> 
+<img src= "media/LED.wiring.diagram.png" width="300"> 
 
 ## Servo Capacitative Touch
 
