@@ -15,6 +15,8 @@ My CircuitPython assignments:
 
 ## LED Fade
 
+[LED Fade Code](https://github.com/gventre04/CircuitPython/blob/master/fading_led.py)
+
 ### Objective
 
 This code makes an LED fade in and out
