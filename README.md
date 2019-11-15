@@ -99,9 +99,11 @@ The challenge with this assignment was mapping out the parameters for the colors
 
 ### Objective
 
-Classes, objects, and modules code, triggering rgb anode leds.
+This assignment followed a lesson on classes, objects, and modules and how to use them. The assignment required us to wire two RGB LEDs and create a new library that would allow a code that was premade by the teachers to work. The code would assign different pins to the LEDs and make the LEDS shine different colors at certain times, each RGB LED was given a different color scheme (RBG1-Red, Blue, Magenta RGB2- Green, Cyan, Yellow)
 
 ### Lesson(s) Learned
+
+Personally, I found it very difficult to understand how the classes, objects, and modules worked, so this assignment was all around quite difficult. The __innit__ function was also quite confusing, especially using it to define r, g, b, the colors themselves weren't too difficult to program. 
 
 ### Wiring Diagram  
 
@@ -113,7 +115,11 @@ Classes, objects, and modules code, triggering rgb anode leds.
 
 ### Objective
 
+This assignment was an introduction to Visual Studio (VS) code, which has all the same coding aspects of CircuitPython with the additional built in git. This makes committing, pushing, and pulling information to our GitHubs much easier. 
+
 ### Lesson(s) Learned
+
+Apart from learning the commands of VS Code, this assignment was fairly straight forward. 
 
 ## Fancy LED
 
@@ -121,7 +127,11 @@ Classes, objects, and modules code, triggering rgb anode leds.
 
 ### Objective
 
+This assignment had us make yet another library for a pre-made code, this code required us to make six LEDs either alternate, chase, blink, or sparkle. 
+
 ### Lesson(s) Learned
+
+Each seperate command was fairly simple, all you have to do is program the order in which the LEDs turn on and off. I unfortunately stuck my wire into 5V instead of ground, but nothing was fried and the LEDs eventually worked. The Sparkle command was by far the hardest as it required import random and some research on how the random command works. 
 
 ### Wiring Diagram 
 
