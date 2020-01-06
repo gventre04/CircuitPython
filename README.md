@@ -80,6 +80,8 @@ The challenging part about this assignment was the time interval and including t
 
 <img src= "media/PhotoInterrupter.png" width="300"> 
 
+[Link to the Original Image](https://github.com/Apaquet37/CircuitPython/blob/master/Media/Final%20photointerrupter%20fritzing%20diagram%20image1.png)
+
 ## Distance Sensor
 
 [Distance Sensor Code](https://github.com/gventre04/CircuitPython/blob/master/DistanceSensor.py)
