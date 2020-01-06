@@ -98,6 +98,8 @@ The challenge with this assignment was mapping out the parameters for the colors
 
 <img src= "media/color_spectrum.png" width="300"> 
 
+[Link to the Original Image](https://cvilleschools.instructure.com/courses/26605/assignments/178849?module_item_id=489739)
+
 ## RGB LED
 
 [RGB LED Code](https://github.com/gventre04/CircuitPython/blob/master/rgb.py)
@@ -141,3 +143,5 @@ Each seperate command was fairly simple, all you have to do is program the order
 ### Wiring Diagram 
 
 <img src= "media/FancyLED.png" width="300"> 
+
+[Link to the Original Image](https://cvilleschools.instructure.com/courses/26605/assignments/182250?module_item_id=499019)
