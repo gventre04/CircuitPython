@@ -116,6 +116,8 @@ Personally, I found it very difficult to understand how the classes, objects, an
 
 <img src= "media/RGB_wiring_diagram.png" width="300"> 
 
+[Link to the Original Image](https://github.com/Apaquet37/CircuitPython/blob/master/Media/Final%20RGB%20fritzing%20diagram%20image.png)
+
 ## Hello vs Code
 
 [Hello vs Code Code](https://github.com/gventre04/CircuitPython/blob/master/hello_vs_code.py)
