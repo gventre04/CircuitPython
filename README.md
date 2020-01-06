@@ -32,6 +32,8 @@ This assignment served as our introduction into the new language of CircuitPytho
 
 [Servo Capacitative Touch Code](https://github.com/gventre04/CircuitPython/blob/master/servo.py)
 
+[Link to Abby Paquette's Image](https://github.com/Apaquet37/CircuitPython/blob/master/Media/servo_with_touch_bb.png)
+
 ### Objective
 
 This code uses two wires inserted into Analog pins to control the direction of a servo, touching one spins it clockwise, and the other spins it counterclockwise. The servo would only move when the wires were touched. 
