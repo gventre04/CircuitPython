@@ -44,7 +44,7 @@ The concept of capacitative touch was completely new to me so I had to rely on g
 
 <img src= "media/servo_with_touch_bb.png" width="300"> 
 
-[Link to Abby Paquette's Image](https://github.com/Apaquet37/CircuitPython/blob/master/Media/servo_with_touch_bb.png)
+[Link to the Original Image](https://github.com/Apaquet37/CircuitPython/blob/master/Media/servo_with_touch_bb.png)
 
 ## CircuitPython LCD 
 
@@ -61,6 +61,8 @@ I had a problem with the button being held causing the button counter on the LCD
 ### Wiring Diagram 
 
 <img src= "media/LCD_Screen.png" width="300"> 
+
+[Link to the Original Image](https://github.com/Apaquet37/CircuitPython/blob/master/Media/Final%20LCD%20screen%20fritzing%20diagram%20image.png)
 
 ## Photo Interrupter
 
