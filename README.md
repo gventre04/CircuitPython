@@ -42,7 +42,7 @@ The concept of capacitative touch was completely new to me so I had to rely on g
 
 ### Wiring Diagram  
 
-<img src= "media/servo_with_touch_bb.png" width="300"> 
+<img src= "media/servo_with_touch_bb.png" width="400"> 
 
 [Link to the Original Image](https://github.com/Apaquet37/CircuitPython/blob/master/Media/servo_with_touch_bb.png)
 
@@ -60,7 +60,7 @@ I had a problem with the button being held causing the button counter on the LCD
 
 ### Wiring Diagram 
 
-<img src= "media/LCD_Screen.png" width="300"> 
+<img src= "media/LCD_Screen.png" width="400"> 
 
 [Link to the Original Image](https://github.com/Apaquet37/CircuitPython/blob/master/Media/Final%20LCD%20screen%20fritzing%20diagram%20image.png)
 
@@ -78,7 +78,7 @@ The challenging part about this assignment was the time interval and including t
 
 ### Wiring Diagram  
 
-<img src= "media/PhotoInterrupter.png" width="300"> 
+<img src= "media/PhotoInterrupter.png" width="400"> 
 
 [Link to the Original Image](https://github.com/Apaquet37/CircuitPython/blob/master/Media/Final%20photointerrupter%20fritzing%20diagram%20image1.png)
 
@@ -96,7 +96,7 @@ The challenge with this assignment was mapping out the parameters for the colors
 
 ### Image 
 
-<img src= "media/color_spectrum.png" width="300"> 
+<img src= "media/color_spectrum.png" width="400"> 
 
 [Link to the Original Image](https://cvilleschools.instructure.com/courses/26605/assignments/178849?module_item_id=489739)
 
@@ -114,7 +114,7 @@ Personally, I found it very difficult to understand how the classes, objects, an
 
 ### Wiring Diagram  
 
-<img src= "media/RGB_wiring_diagram.png" width="300"> 
+<img src= "media/RGB_wiring_diagram.png" width="400"> 
 
 [Link to the Original Image](https://github.com/Apaquet37/CircuitPython/blob/master/Media/Final%20RGB%20fritzing%20diagram%20image.png)
 
@@ -144,6 +144,6 @@ Each seperate command was fairly simple, all you have to do is program the order
 
 ### Wiring Diagram 
 
-<img src= "media/FancyLED.png" width="300"> 
+<img src= "media/FancyLED.png" width="400"> 
 
 [Link to the Original Image](https://cvilleschools.instructure.com/courses/26605/assignments/182250?module_item_id=499019)
