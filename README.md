@@ -62,7 +62,7 @@ This code uses a button and an lcd screen, and a switch, when pushing the button
 
 ### Lesson(s) Learned
 
-I had a problem with the button being held causing the button counter on the LCD to continuosly counting up or down. I had to add oldButtonState to make sure each press counted for a single +1 on the LCD.
+I had a problem with the button being held causing the button counter on the LCD to continuosly counting up or down. I had to add oldButtonState to make sure each press counted for a single +1 on the LCD. [This website](https://learn.adafruit.com/sensor-plotting-with-mu-and-circuitpython/buttons-and-switch) helped me understand how to set-up a button and switch in circuit python, along with example code showing how it's done. 
 
 ## Photo Interrupter
 
