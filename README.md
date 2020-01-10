@@ -98,7 +98,7 @@ This assignment had us wire an HCSR-04 sensor and use it as a distance sensor th
 
 ### Lesson(s) Learned
 
-The challenge with this assignment was mapping out the parameters for the colors based on distance, initially I coded the sensor to give out three different colors for 5cm, 20cm, and 35cm. I had to add a fade effect from one color to the next as distance increased or decreased. 
+The challenge with this assignment was mapping out the parameters for the colors based on distance, initially I coded the sensor to give out three different colors for 5cm, 20cm, and 35cm. [This code](https://circuitpython.readthedocs.io/projects/simpleio/en/latest/examples.html#id3) provides a good example of how to map a sensorValue which then allowed me to add a fade effect on the neopixel as distance from the sensor increased or decreased. 
 
 ## RGB LED
 
@@ -116,7 +116,7 @@ This assignment followed a lesson on classes, objects, and modules and how to us
 
 ### Lesson(s) Learned
 
-Personally, I found it very difficult to understand how the classes, objects, and modules worked, so this assignment was all around quite difficult. The __innit__ function was also quite confusing, especially using it to define r, g, b, the colors themselves weren't too difficult to program. 
+Personally, I found it very difficult to understand how the classes, objects, and modules worked, so this assignment was all around quite difficult. The __innit__ function was also quite confusing, especially using it to define r, g, b, the colors themselves weren't too difficult to program.        Ghidajisdiasidjaisjdia
 
 ## Hello vs Code
 
