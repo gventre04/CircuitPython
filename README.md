@@ -80,7 +80,7 @@ This code counts the amount of time the photointerrupter has been interrupted wi
 
 ### Lesson(s) Learned
 
-The challenging part about this assignment was the time interval and including the amount of interrupts in that given interval. I solved with with photo and state to count the interrupts and start = time.time() to calculate the 4 second interval.
+The challenging part about this assignment was the time interval and including the amount of interrupts in that given interval. I solved with with photo and state to count the interrupts and start = time.time() to calculate the 4 second interval. [This website](https://www.programiz.com/python-programming/time) explains how to use the import time module, specifically time.time().
 
 ## Distance Sensor
 
