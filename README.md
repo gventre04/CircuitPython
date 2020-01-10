@@ -26,7 +26,7 @@ This assignment required us to initially learn to manipulate the on board RGB LE
 
 ### Lesson(s) Learned
 
-This assignment served as our introduction into the new language of CircuitPython and a new board called a Metro MO Express. This coding langauge requres many different imports such as math, time, board, digitalio, neopixel to name a few. This specific assignment I learned how to use the import pulseio which is required to make the LED fade as well as manipulating the duty cycle. 
+This assignment served as our introduction into the new language of CircuitPython and a new board called a Metro MO Express. This coding langauge requres many different imports such as math, time, board, digitalio, neopixel to name a few. This specific assignment I learned how to use the import pulseio which is required to make the LED fade as well as manipulating the duty cycle. [This website](https://learn.adafruit.com/circuitpython-essentials/circuitpython-pwm) helped me better understand how to use PWM.
 
 ## Servo Capacitative Touch
 
