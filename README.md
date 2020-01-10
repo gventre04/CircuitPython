@@ -116,7 +116,7 @@ This assignment followed a lesson on classes, objects, and modules and how to us
 
 ### Lesson(s) Learned
 
-Personally, I found it very difficult to understand how the classes, objects, and modules worked, so this assignment was all around quite difficult. The __innit__ function was also quite confusing, especially using it to define r, g, b, the colors themselves weren't too difficult to program.        Ghidajisdiasidjaisjdia
+Personally, I found it very difficult to understand how the classes, objects, and modules worked, so this assignment was all around quite difficult. The __init__ function was also quite confusing, especially using it to define r, g, b, the colors themselves weren't too difficult to program. I used [this website](https://www.tutorialspoint.com/What-is-difference-between-self-and-init-methods-in-python-Class) to better understand how the __init__ function and the self instance worked. 
 
 ## Hello vs Code
 
@@ -128,7 +128,7 @@ This assignment was an introduction to Visual Studio (VS) code, which has all th
 
 ### Lesson(s) Learned
 
-Apart from learning the commands of VS Code, this assignment was fairly straight forward. 
+Apart from learning the commands of VS Code, this assignment was fairly straight forward. One good thing to remember is to always git push at the end of working on VS Code so all of your work is saved on github, and to git pull when opening VS Code to pull any information/changes made on github, this avoids getting VS Code and github out of sync and potentially losing your work. 
 
 ## Fancy LED
 
@@ -146,4 +146,4 @@ This assignment had us make yet another library for a pre-made code, this code r
 
 ### Lesson(s) Learned
 
-Each seperate command was fairly simple, all you have to do is program the order in which the LEDs turn on and off. I unfortunately stuck my wire into 5V instead of ground, but nothing was fried and the LEDs eventually worked. The Sparkle command was by far the hardest as it required import random and some research on how the random command works. 
+Each seperate command was fairly simple, all you have to do is program the order in which the LEDs turn on and off. I unfortunately stuck my wire into 5V instead of ground, but nothing was fried and the LEDs eventually worked. The Sparkle command was by far the hardest as it required import random I used [this website](https://www.pythonforbeginners.com/random/how-to-use-the-random-module-in-python) to understand how the random module worked. 
