@@ -110,7 +110,7 @@ This assignment followed a lesson on classes, objects, and modules and how to us
 
 ### Wiring Diagram  
 
-<img src= "media/RGB_wiring_diagram.png" width="500"> 
+<img src= "media/RGB_wiring_diagram.png" width="600"> 
 
 [Link to Abby Paquette's Original Image](https://github.com/Apaquet37/CircuitPython/blob/master/Media/Final%20RGB%20fritzing%20diagram%20image.png)
 
@@ -140,7 +140,7 @@ This assignment had us make yet another library for a pre-made code, this code r
 
 ### Wiring Diagram 
 
-<img src= "media/FancyLED.png" width="500"> 
+<img src= "media/FancyLED.png" width=600"> 
 
 [Link to the Original Image](https://cvilleschools.instructure.com/courses/26605/assignments/182250?module_item_id=499019)
 
