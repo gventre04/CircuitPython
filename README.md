@@ -56,7 +56,7 @@ This code uses a button and an lcd screen, and a switch, when pushing the button
 
 ### Wiring Diagram 
 
-<img src= "media/LCD_Screen.png" width="500"> 
+<img src= "media/LCD_Screen.png" width="600"> 
 
 [Link to Abby Paquette's Original Image](https://github.com/Apaquet37/CircuitPython/blob/master/Media/Final%20LCD%20screen%20fritzing%20diagram%20image.png)
 
